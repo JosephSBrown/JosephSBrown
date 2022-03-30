@@ -2,7 +2,7 @@
 
 I'm an Undergraduate University Student Studying Computing and Information Students. My Best Language is Python and I currently work as a Software Developer.
 
-🔭 I’m currently working on a number of Personal Projects along with the Work I do Professional and for My Degree.
+🔭 I’m currently working on a number of Personal Projects along with the Work I do Professionally and for My Degree.
 
 🌱 I’m currently learning C# and Japanese, while continuing to expand my Knowledge on Python (Past PCAP level), HTML, CSS and Javascript.
 
