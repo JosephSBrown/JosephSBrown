@@ -1,4 +1,4 @@
-I'm an Undergraduate University Student Studying Computing and Information Students. My Best Language is Python and I am a Software Developer.
+I'm an Undergraduate University Student Studying Computing and Information Systems. My Best Language is Python and I am a Software Developer.
 
 🔭 I’m currently working on a number of Personal Projects along with the Work I do Professionally and for My Degree.
 
