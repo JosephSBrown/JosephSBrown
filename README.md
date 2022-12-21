@@ -1,10 +1,8 @@
-I'm an Undergraduate University Student Studying Computing and Information Systems. My Best Language is Python and I am a Software Developer.
+I'm an Undergraduate University Student Studying Computing and Information Systems. My Best Languages tend to be specialised in Object Oriented Programming and I am a Software Developer.
 
 🔭 I’m currently working on a number of Personal Projects along with the Work I do Professionally and for My Degree.
 
 🌱 I’m currently learning C# and Japanese, while continuing to expand my Knowledge on Python (Past PCAP level), HTML, CSS and Javascript.
-
-Below you will see my Most Used Languages Commited to Github...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSBrown&theme=tokyonight)
 
