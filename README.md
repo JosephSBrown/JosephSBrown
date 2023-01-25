@@ -2,7 +2,7 @@ I'm an Undergraduate University Student Studying Computing and Information Syste
 
 🔭 I’m currently working on a number of Personal Projects along with the Work I do Professionally and for My Degree.
 
-🌱 I’m currently learning Japanese and to develop AI, while continuing to expand my Knowledge on Python (Past PCAP level) and C# along with HTML, CSS and Javascript.
+🌱 I’m currently learning Japanese and to develop Artificial Intelligence, while continuing to expand my Knowledge on Python (Past PCAP level) and C# along with HTML, CSS and Javascript.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSBrown&theme=tokyonight)
 
