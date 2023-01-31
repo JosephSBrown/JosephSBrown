@@ -4,7 +4,7 @@ I'm an Undergraduate University Student Studying Computing and Information Syste
 
 🌱 I’m currently learning Japanese and to develop Artificial Intelligence, while continuing to expand my Knowledge on Python (Past PCAP level) and C# along with HTML, CSS and Javascript.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSBrown&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSBrown&langscount=6&theme=tokyonight)
 
 <!--
 **JosephSBrown/JosephSBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
