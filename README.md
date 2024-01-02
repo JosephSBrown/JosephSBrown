@@ -1,4 +1,4 @@
-I'm an Undergraduate University Student Studying Computing and Information Systems. My Best Languages tend to be specialised in Object Oriented Programming and I am a Software Developer.
+I'm an Undergraduate University Student Waiting for the Final Grade Computing and Information Systems. My Best Languages tend to be specialised in Object Oriented Programming and I am a Software Developer.
 
 🔭 I’m currently working on a number of Personal Projects along with the Work I do Professionally and for My Degree.
 
